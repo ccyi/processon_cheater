@@ -1,5 +1,7 @@
 # ProcessOn Cheater
 
+ProcessOn现在以及增加了滑块验证码, 此项目已失效, 没空更新了, 大家散了吧
+
 ProcessOn 扩容作弊器
 
 ProcessOn是一个很好用的在线作图工具。由于免费账户只有最大9个文件的容量，太小了，很容易超。
